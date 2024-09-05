@@ -1,2 +1,2 @@
 # html-practice
-Homework example project 
+Personal Project Project
