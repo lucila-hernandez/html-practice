@@ -1,2 +1,2 @@
 # html-practice
-Personal Project 
+personal portfolio project
